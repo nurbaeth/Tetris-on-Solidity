@@ -16,7 +16,7 @@ Tetris on Solidity is an experimental on-chain implementation of the classic Tet
 The core of the game is implemented in the `Tetris.sol` smart contract. It maintains the game board, score, and game status for each player.
 
 ## Deployment
-To deploy the contract, use the following steps:
+To deploy the contract, use the following steps: 
 
 ```sh
 forge install
