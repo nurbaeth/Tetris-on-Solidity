@@ -3,7 +3,7 @@
 Tetris on Solidity is an experimental on-chain implementation of the classic Tetris game. The project explores the feasibility of blockchain-based gaming by storing the game state in a smart contract and allowing decentralized scorekeeping.
 
 ## Features
-- Fully on-chain game logic written in Solidity
+- Fully on-chain game logic written in Solidity 
 - Players can start a game, make moves, and track scores
 - Immutable and transparent game state
 
