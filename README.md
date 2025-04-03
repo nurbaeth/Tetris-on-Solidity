@@ -10,7 +10,7 @@ Tetris on Solidity is an experimental on-chain implementation of the classic Tet
 ## How It Works
 1. **Start a Game:** Players initialize a new game session on the blockchain.
 2. **Make Moves:** Players submit their game board updates and scores via smart contract interactions.
-3. **Game Over:** The game session ends when the player chooses to finalize it.
+3. **Game Over:** The game session ends when the player chooses to finalize it. 
  
 ## Smart Contract 
 The core of the game is implemented in the `Tetris.sol` smart contract. It maintains the game board, score, and game status for each player.
